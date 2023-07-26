@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hello there, I am Pavan 
+
+- Passionate about technology and finance  
+- Currently learning advanced C++, Python, Java and KDB 
+- Open to collaborations in the finance and programming domains
+- Connect with me here: [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavankumarg2002-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pavankumarg2002/)
+
 
 <!--
 **pavankumar0715/pavankumar0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
