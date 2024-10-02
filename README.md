@@ -1,7 +1,7 @@
 ### Hello there, I am Pavan 
 
 - Passionate about technology 
-- Currently learning advanced C++, Python, Java and KDB 
+- Currently learning Java 
 - Open to collaborations in all domains
 - Connect with me here: [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavankumarg2002-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pavankumarg2002/)
 
